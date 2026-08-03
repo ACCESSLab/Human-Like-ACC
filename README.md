@@ -1,1 +1,1 @@
-# Human-Like-ACC
+# Human-Like Adaptive Cruise Control
